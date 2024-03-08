@@ -9,7 +9,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [website](http://alamin14-portfolio.netlify.app/)
 * ✉️  You can contact me at [alamin.14780@gmail.com](mailto:alamin.14780@gmail.com)
-* 🧠  I'm learning Mongoose, Redux, Docker, AWS, Next-JS
+* 🧠  I'm learning Mongoose, Redux, Docker, AWS, Prisma, Next-JS
 
 ### Skills
 
