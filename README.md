@@ -1,12 +1,18 @@
-Hi 👋 I'm Al Amin
-========================
+<p align="center">
+ <img width="60%" src"https://i.ibb.co/2h2hx9m/github-banner.png"/>
+</p>
 
-Full Stack Web Developer
-------------------------
+![alt text](https://i.ibb.co/2h2hx9m/github-banner.png)
+
+
+<br/>
+
+## About Me
 
 Hello! I'm a passionate coder and a dedicated Computer Science student at Daffodil International University. With a love for programming, I have embarked on a journey to build various projects that showcase my skills and creativity. As a student of Computer Science and Engineering, I am constantly exploring new technologies and expanding my knowledge in the field of computing. Whether it's developing innovative software solutions or tackling coding challenges, I find joy in turning ideas into reality through the power of code.
 
 <br/>
+
 
 ## Skills
 
