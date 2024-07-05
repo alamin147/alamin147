@@ -1,4 +1,4 @@
-Hi 👋  My name is Al Amin
+Hi 👋 I'm Al Amin
 ========================
 
 Full Stack Web Developer
@@ -6,10 +6,6 @@ Full Stack Web Developer
 
 Hello! I'm a passionate coder and a dedicated Computer Science student at Daffodil International University. With a love for programming, I have embarked on a journey to build various projects that showcase my skills and creativity. As a student of Computer Science and Engineering, I am constantly exploring new technologies and expanding my knowledge in the field of computing. Whether it's developing innovative software solutions or tackling coding challenges, I find joy in turning ideas into reality through the power of code.
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [website](http://alamin14-portfolio.netlify.app/)
-* ✉️  You can contact me at [alamin.14780@gmail.com](mailto:alamin.14780@gmail.com)
-* 🧠  I'm learning Mongoose, Redux, Docker, AWS, Prisma, Next-JS
 
 ### Skills
 
