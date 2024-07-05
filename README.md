@@ -49,6 +49,18 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 
 
+## Current overview
+
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
+
+### 🔭 I’m working - In Programming Hero. 
+### 🌱 I’m exploring - Advance motion graphics for web. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+
+
 ### Badges
 
 <a href="https://github.com/alamin147" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
