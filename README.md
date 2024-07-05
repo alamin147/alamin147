@@ -15,12 +15,8 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 </p>
 
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000)](https://git.io/streak-stats)
 
 
 ### Socials
