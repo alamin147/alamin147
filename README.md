@@ -36,7 +36,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
   <a href="https://codeforces.com/profile/alamin147" target="_blank" rel="noreferrer">
     <img src="https://assets.codeforces.com/users/kguseva/comments/cf.png" width="180" height="50" />
   </a>
- <a href="https://codeforces.com/profile/alamin147" target="_blank" rel="noreferrer">
+ <a href="https://leetcode.com/u/alamin14" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="170" height="50" />
   </a>
 </p>
