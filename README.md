@@ -67,7 +67,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 ## Current overview
  
-### 🔭 I'm exploring - Prisma, Next JS
-### 🛋️ I'm comfortable working with - Express JS, SQL, C++
+### 🔭 I'm exploring - CP
+### 🛋️ I'm comfortable working with - Node JS, Express JS, MongoDB, Mongoose and C++
 ### 👯 I'm looking - To collaborate on open source projects. 
 
