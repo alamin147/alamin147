@@ -24,7 +24,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
   <a href="https://www.github.com/alamin147" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
- <p></p>
+
   <a href="https://www.linkedin.com/in/alamin-developer" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
