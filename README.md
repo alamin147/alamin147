@@ -20,6 +20,9 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 
 <p align="left">
+   <a href="https://portfolio-alamin-dev.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
+  </a>
   <a href="https://www.github.com/alamin147" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
