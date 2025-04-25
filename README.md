@@ -141,10 +141,11 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 <img src="https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
 
-![Alamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight)
-
+<p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+</p>
 
 
 ## Current overview
