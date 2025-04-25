@@ -1,9 +1,8 @@
+
+
 <p align="center">
- <img width="60%" src"https://i.ibb.co/2h2hx9m/github-banner.png"/>
+  <img width="100%" src="github-banner.png" alt="GitHub Banner"/>
 </p>
-
-![alt text](https://i.ibb.co/2h2hx9m/github-banner.png)
-
 
 <br/>
 
