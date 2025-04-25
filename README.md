@@ -18,26 +18,28 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 ### Socials
 
+
+
 <p align="left">
-  <a href="https://www.github.com/alamin147" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="50" />
-    </picture>
+  <a href="https://www.github.com/alamin147" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alamin-developer/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="50" />
-    </picture>
+ <p></p>
+  <a href="https://www.linkedin.com/in/alamin-developer" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/alamin147" target="_blank" rel="noreferrer">
-    <img src="https://assets.codeforces.com/users/kguseva/comments/cf.png" width="180" height="50" />
+  <a href="https://codeforces.com/profile/alamin147" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-ffffff?style=for-the-badge&logo=codeforces&logoColor=blue" />
   </a>
- <a href="https://leetcode.com/u/alamin14" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="170" height="50" />
+ 
+  <a href="https://www.codechef.com/users/alamin14780" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/alamin14" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/alamin_14780" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
