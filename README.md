@@ -6,7 +6,7 @@
 
 <br/>
 
-## About Me
+## 📝 About Me
 
 Hello! I'm a passionate coder and a dedicated Computer Science student at Daffodil International University. With a love for programming, I have embarked on a journey to build various projects that showcase my skills and creativity. As a student of Computer Science and Engineering, I am constantly exploring new technologies and expanding my knowledge in the field of computing. Whether it's developing innovative software solutions or tackling coding challenges, I find joy in turning ideas into reality through the power of code.
 
@@ -30,7 +30,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 <br/>
 
 
-## Socials
+## 🌐 Socials
 
 
 
@@ -64,7 +64,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 <br/>
 
-## Skills
+## 💼 Skills
 
 <p align="center">
 
@@ -146,7 +146,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 <br/>
 
-## Stats
+## 📊 Stats
 
 
   <!--img width="60%" src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" -->
