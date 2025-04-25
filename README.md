@@ -133,12 +133,16 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 ## Stats
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" />
-</p>
+
+  <!--img width="60%" src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" -->
 
 
+<!--img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin147&theme=dark" 
 
+<img src="https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight" -->
+
+![Alamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight)
 
 
 
