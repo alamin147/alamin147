@@ -139,8 +139,9 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin147&theme=dark" 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight" -->
+<img src="https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight" /> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
 
 ![Alamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight)
 
