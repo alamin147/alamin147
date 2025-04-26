@@ -162,7 +162,7 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 ![Blog](https://img.shields.io/badge/blog-latest-ff69b4?style=for-the-badge&logo=hashnode)
 ![Dev.to](https://img.shields.io/badge/dev.to-articles-blue?style=for-the-badge&logo=dev.to)
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [🎨 Creating a Beautiful Portfolio with Tailwind and Framer Motion](https://portfolio-alamin-dev.vercel.app/blog/beautiful-portfolio) - *Apr 24, 2025*
 - [⚡ How to Build Real-Time Chat Apps with Socket.io](https://portfolio-alamin-dev.vercel.app/blog/socket-chat) - *Apr 20, 2025*
 - [🚀 React Performance Optimization: Tips & Best Practices](https://portfolio-alamin-dev.vercel.app/blog/react-performance) - *Apr 15, 2025*
