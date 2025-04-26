@@ -12,7 +12,6 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 
 
-
 <br/>
 
 ## 🚀 Current overview
@@ -148,14 +147,28 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 ## 📊 Stats
 
-<img width="60%" src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin147&theme=dark"/> 
 <!-->
 
 <p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight" />
   <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </p>
+<img width="55%" src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" >
+
+<br/>
+
+## 📝 Latest Blog Posts
+
+![Blog](https://img.shields.io/badge/blog-latest-ff69b4?style=for-the-badge&logo=hashnode)
+![Dev.to](https://img.shields.io/badge/dev.to-articles-blue?style=for-the-badge&logo=dev.to)
+
+<!-- BLOG-POST-LIST:START -->
+- [🎨 Creating a Beautiful Portfolio with Tailwind and Framer Motion](https://portfolio-alamin-dev.vercel.app/blog/beautiful-portfolio) - *Apr 24, 2025*
+- [⚡ How to Build Real-Time Chat Apps with Socket.io](https://portfolio-alamin-dev.vercel.app/blog/socket-chat) - *Apr 20, 2025*
+- [🚀 React Performance Optimization: Tips & Best Practices](https://portfolio-alamin-dev.vercel.app/blog/react-performance) - *Apr 15, 2025*
+- [📦 Setting Up a Fullstack App with MongoDB, Express, React & Node](https://portfolio-alamin-dev.vercel.app/blog/mern-stack) - *Apr 10, 2025*
+- [🧠 Understanding useEffect in React — The Clean Way](https://portfolio-alamin-dev.vercel.app/blog/useeffect-guide) - *Apr 5, 2025*
+<!-- BLOG-POST-LIST:END -->
 
 
 
