@@ -152,8 +152,8 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 <p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=alamin147&show_icons=true&theme=tokyonight" />
   <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+<img src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" alt="GitHub Streak" />
 </p>
-<img width="55%" src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" >
 
 <br/>
 
