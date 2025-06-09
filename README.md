@@ -6,10 +6,13 @@
 
 <br/>
 
-## 📝 About Me
+## 👨‍💻 About Me
 
-Hello! I'm a passionate coder and a dedicated Computer Science student at Daffodil International University. With a love for programming, I have embarked on a journey to build various projects that showcase my skills and creativity. As a student of Computer Science and Engineering, I am constantly exploring new technologies and expanding my knowledge in the field of computing. Whether it's developing innovative software solutions or tackling coding challenges, I find joy in turning ideas into reality through the power of code.
+I'm a Computer Science student at Daffodil International University, passionate about coding and creating impactful tech. I love building full-stack apps, exploring backend architecture, and diving deep into competitive programming challenges.
 
+I’m always curious about new tech, constantly experimenting, and leveling up my skills in software development, backend systems, and competitive programming. Whether it's crafting real-world solutions or exploring fun side projects, I enjoy turning ideas into clean, working code.
+
+Always building, always growing. Let’s connect and make something awesome!
 
 
 <br/>
