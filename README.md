@@ -14,17 +14,32 @@ Hello! I'm a passionate coder and a dedicated Computer Science student at Daffod
 
 <br/>
 
-## 🚀 Current overview
+## 🚀 Overview
 
-- 🔭 Currently diving into **Competitive Programming** (CP)  
-- 🛠️ **Technologies I'm Comfortable With**:
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-  - ![Mongoose](https://img.shields.io/badge/-Mongoose-880e4f?logo=mongoose&logoColor=white)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-- 🤝 Looking to collaborate on **Open Source Projects**  
-- 🌱 Always learning and improving in the world of **Software Development**
+
+### 🔭 Currently Exploring  
+**Competitive Programming (CP)**  
+Sharpening my problem-solving skills through coding challenges.
+
+
+### 🛠️ Tech Stack I'm comfortable With  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880e4f?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+</p>
+
+
+### 🤝 Collaboration  
+I'm always open to collaborating on **Open Source Projects**, hackathons, or any dev-related challenge!
+
+
+### 🌱 Always Learning  
+Currently leveling up my skills in  
+**Backend Development, System Design, and Competitive Programming** 🚀
 
 <br/>
 
