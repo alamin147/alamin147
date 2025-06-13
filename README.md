@@ -173,7 +173,10 @@ Currently leveling up my skills in
 
 </p>
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
-<img src="https://streak-stats.demolab.com?user=alamin147&theme=dark&hide_border=true&ring=43E4EB&currStreakNum=34EBCA&fire=EB0000&currStreakLabel=EB0808&sideNums=EB406E&sideLabels=43E4EB&stroke=EB0000" alt="GitHub Streak" />
+
+ <img src="https://nirzak-streak-stats.vercel.app?user=alamin147&theme=radical" alt="GitHub Streak Stats"/>
+<!-- <img src="https://nirzak-streak-stats.vercel.app?user=alamin147&theme=monokai" alt="GitHub Streak Stats - monokai"/>
+-->
 </p>
   
 <br/>
