@@ -20,29 +20,22 @@ Always building, always growing. Let’s connect and make something awesome!
 ## 🚀 Overview
 
 
-### 🔭 Currently Exploring  
-**Competitive Programming (CP)**  
-Sharpening my problem-solving skills through coding challenges.
+- Currently Exploring: ***Competitive Programming (CP)***. Sharpening my problem-solving skills through coding challenges.
+- Collaboration: I'm always open to collaborating on ***Open Source Projects***, hackathons, or any dev-related challenge!
+- Always Learning: Currently leveling up my skills in  **Backend Development, System Design, and Competitive Programming** 🚀
+
 
 
 ### 🛠️ Tech Stack I'm comfortable With  
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880e4f?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=blue" />
 </p>
 
-
-### 🤝 Collaboration  
-I'm always open to collaborating on **Open Source Projects**, hackathons, or any dev-related challenge!
-
-
-### 🌱 Always Learning  
-Currently leveling up my skills in  
-**Backend Development, System Design, and Competitive Programming** 🚀
 
 <br/>
 
