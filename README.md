@@ -22,7 +22,7 @@ Always building, always growing. Let’s connect and make something awesome!
 
 - Currently Exploring: ***Competitive Programming (CP)***. Sharpening my problem-solving skills through coding challenges.
 - Collaboration: I'm always open to collaborating on ***Open Source Projects***, hackathons, or any dev-related challenge!
-- Always Learning: Currently leveling up my skills in  **Backend Development, System Design, and Competitive Programming** 🚀
+- Always Learning: Currently leveling up my skills in  **Backend Development, System Design, and Competitive Programming** 
 
 
 
