@@ -134,10 +134,11 @@ Always building, always growing. Let’s connect and make something awesome!
 ![](https://github-profile-trophy.vercel.app/?username=alamin147&theme=tokyonight&no-frame=true&no-bg=true&hide=jupyter%20notebook)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=alamin147&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--## 📝 Latest Blog Posts
 
 ![Blog](https://img.shields.io/badge/blog-latest-ff69b4?style=for-the-badge&logo=hashnode)
