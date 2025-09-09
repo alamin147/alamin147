@@ -39,9 +39,9 @@ Always building, always growing. Let’s connect and make something awesome!
 
 <br/>
 
-## 🌐 Competitive Programming
+## ⚡ Competitive Programming
 
-<p align="center">
+<p align="left">
  <a href="https://codeforces.com/profile/alamin147" target="_blank">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-ffffff?style=for-the-badge&logo=codeforces&logoColor=blue" />
   </a>
@@ -56,9 +56,10 @@ Always building, always growing. Let’s connect and make something awesome!
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
-<a href="https://www.hackerrank.com/alamin_14780" target="_blank">
-    <img alt="Beecrowd" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/your-username" target="_blank">
+    <img alt="Beecrowd" src="https://img.shields.io/badge/Beecrowd-FF6F00?style=for-the-badge&logo=beecrowd&logoColor=white" />
+</a>
+
   
   </p>
 
@@ -67,7 +68,7 @@ Always building, always growing. Let’s connect and make something awesome!
 
 
 
-<p align="center">
+<p align="left">
    <a href="https://alamin-portfolio-site.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
   </a>
