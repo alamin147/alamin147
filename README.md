@@ -39,7 +39,30 @@ Always building, always growing. Let’s connect and make something awesome!
 
 <br/>
 
+## 🌐 Competitive Programming
 
+<p align="center">
+ <a href="https://codeforces.com/profile/alamin147" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-ffffff?style=for-the-badge&logo=codeforces&logoColor=blue" />
+  </a>
+ 
+  <a href="https://www.codechef.com/users/alamin14780" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/alamin14" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/alamin_14780" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+<a href="https://www.hackerrank.com/alamin_14780" target="_blank">
+    <img alt="Beecrowd" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  
+  </p>
+
+  
 ## 🌐 Socials
 
 
@@ -55,19 +78,7 @@ Always building, always growing. Let’s connect and make something awesome!
   <a href="https://www.linkedin.com/in/alamin27" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/alamin147" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-ffffff?style=for-the-badge&logo=codeforces&logoColor=blue" />
-  </a>
  
-  <a href="https://www.codechef.com/users/alamin14780" target="_blank">
-    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/alamin14" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/alamin_14780" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
 </p>
 
 
