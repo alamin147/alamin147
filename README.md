@@ -9,9 +9,7 @@
 ## 👨‍💻 About Me
 
 I'm a Computer Science student at Daffodil International University, passionate about coding and creating impactful tech. I love building full-stack apps, exploring backend architecture, and diving deep into competitive programming challenges.
-
 I’m always curious about new tech, constantly experimenting, and leveling up my skills in software development, backend systems, and competitive programming. Whether it's crafting real-world solutions or exploring fun side projects, I enjoy turning ideas into clean, working code.
-
 Always building, always growing. Let’s connect and make something awesome!
 
 
@@ -43,7 +41,7 @@ Always building, always growing. Let’s connect and make something awesome!
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
-<a href="https://www.beecrowd.com.br/judge/en/profile/your-username" target="_blank">
+<a href="https://www.beecrowd.com.br/judge/en/profile/635318" target="_blank">
     <img alt="Beecrowd" src="https://img.shields.io/badge/Beecrowd-FF6F00?style=for-the-badge&logo=beecrowd&logoColor=white" />
 </a>
 
