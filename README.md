@@ -44,11 +44,11 @@ Always building, always growing. Let’s connect and make something awesome!
 <a href="https://www.beecrowd.com.br/judge/en/profile/635318" target="_blank">
     <img alt="Beecrowd" src="https://img.shields.io/badge/Beecrowd-FF6F00?style=for-the-badge&logo=beecrowd&logoColor=white" />
 </a>
-
-  
   </p>
-
   <br/>
+
+## 💻 Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/alamin14?ext=activity)
 
   
 ## 🌐 Socials
