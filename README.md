@@ -133,6 +133,37 @@ Always building, always growing. Let’s connect and make something awesome!
 <br/>
 
 
+## ⚙️ My Coding Environment
+
+### System
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/WM-Hyprland-00D9FF?style=for-the-badge&logo=wayland&logoColor=black" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Bar-Waybar-7C3AED?style=for-the-badge&logo=statusbar&logoColor=white" alt="Waybar" />
+  <img src="https://img.shields.io/badge/Launcher-Rofi-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" alt="Rofi" />
+</p>
+
+### Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Config-LazyVim-68217A?style=for-the-badge&logo=vim&logoColor=white" alt="LazyVim" />
+  <img src="https://img.shields.io/badge/Terminal-Kitty-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Kitty" />
+  <img src="https://img.shields.io/badge/Multiplexer-Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux" />
+  <img src="https://img.shields.io/badge/Shell-Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
+</p>
+
+### Theming
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Catppuccin-F5C2E7?style=for-the-badge&logo=circle&logoColor=black" alt="Catppuccin" />
+  <a href="https://github.com/alamin147/my-dotfiles" target="_blank">
+    <img src="https://img.shields.io/badge/Dotfiles-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dotfiles" />
+  </a>
+</p>
+
+
+<br/>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamin147&theme=tokyonight&no-frame=true&no-bg=true&hide=jupyter%20notebook)
 
