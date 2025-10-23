@@ -163,16 +163,16 @@ Always building, always growing. Let’s connect and make something awesome!
 
 <br/>
 
-
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamin147&theme=tokyonight&no-frame=true&no-bg=true&hide=jupyter%20notebook)
 
 <br/>
 
-## ✍️ Random Dev Quote
-<div align="center">
+ ## ✍️ Random Dev Quote
+ <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+</div> -->
 
 <!--## 📝 Latest Blog Posts
 
