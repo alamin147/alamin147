@@ -152,13 +152,13 @@ Always building, always growing. Let’s connect and make something awesome!
   <img src="https://img.shields.io/badge/Shell-Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
 </p>
 
-### Theming
+<!--### Theming
 <p align="center">
 <img src="https://img.shields.io/badge/Theme-Gruvbox-F2C89F?style=for-the-badge&logo=circle&logoColor=black" alt="Gruvbox Material" />
   <a href="https://github.com/alamin147/my-dotfiles" target="_blank">
     <img src="https://img.shields.io/badge/Dotfiles-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dotfiles" />
   </a>
-</p>
+</p>-->
 
 
 <br/>
