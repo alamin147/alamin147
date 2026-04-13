@@ -116,20 +116,19 @@ Always building, always growing. Let’s connect and make something awesome!
 
 ## 📊 Stats
 
-<!-->
-
-<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+<!-- <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=alamin147&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin147&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&include_all_commits=true&count_private=true" />
-
 </p>
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
-
  <img src="https://nirzak-streak-stats.vercel.app?user=alamin147&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-<!-- <img src="https://nirzak-streak-stats.vercel.app?user=alamin147&theme=monokai" alt="GitHub Streak Stats - monokai"/>
--->
+ <img src="https://nirzak-streak-stats.vercel.app?user=alamin147&theme=monokai" alt="GitHub Streak Stats - monokai"/>
+ </p> -->
+
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=alamin147&theme=dark" />
 </p>
-  
+
 <br/>
 
 
