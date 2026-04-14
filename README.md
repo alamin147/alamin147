@@ -127,7 +127,7 @@ Always building, always growing. Let’s connect and make something awesome!
 
   <p align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=alamin147&theme=dark" /> -->
-    <img src="https://github-streak-eosin.vercel.app/api/streak?user=alamin147"/>
+    <img src="https://github-streak-eosin.vercel.app/api/streak?user=alamin147&theme=dark"/>
     
   </p>
 
