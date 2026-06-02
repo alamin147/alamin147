@@ -8,9 +8,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at Daffodil International University, passionate about coding and creating impactful tech. I love building full-stack apps, exploring backend architecture, and diving deep into competitive programming challenges.
-I’m always curious about new tech, constantly experimenting, and leveling up my skills in software development, backend systems, and competitive programming. Whether it's crafting real-world solutions or exploring fun side projects, I enjoy turning ideas into clean, working code.
-Always building, always growing. Let’s connect and make something awesome!
+I'm a Computer Science graduate with a passion for building impactful technology and solving real world problems through software. I enjoy developing fullstack applications, designing scalable backend systems, and exploring machine learning and natural language processing.
+
+My interests span software engineering, backend architecture, artificial intelligence, and competitive programming. I enjoy tackling complex challenges, optimizing solutions, and continuously expanding my knowledge of emerging technologies.
+
+Whether I'm building production ready applications, developing AI-powered solutions, or working on side projects, I focus on writing clean, efficient, and maintainable code. I'm always eager to learn, collaborate, and contribute to meaningful projects that create value and drive innovation.
+
+Always building, always learning, always improving. Let's connect and create something great!
 
 
 <br/>
@@ -18,9 +22,10 @@ Always building, always growing. Let’s connect and make something awesome!
 ## 🚀 Overview
 
 
-- Currently Exploring: ***Competitive Programming (CP)***. Sharpening my problem-solving skills through coding challenges.
-- Collaboration: I'm always open to collaborating on ***Open Source Projects***, hackathons, or any dev-related challenge!
-- Always Learning: Currently leveling up my skills in  **Backend Development, System Design, and Competitive Programming** 
+- Currently Exploring: Machine Learning with PyTorch, Natural Language Processing (NLP), and Competitive Programming to strengthen both AI and problem solving skills.
+- Collaboration: Open to collaborating on Open Source Projects, AI/ML applications, hackathons, and software development challenges.
+- Always Learning: Continuously improving my knowledge of Backend Development, System Design, Machine Learning, NLP, and scalable software architecture.
+- Interests: Fullstack Development, Backend Engineering, Artificial Intelligence, Competitive Programming, and building real world solutions through technology.
 
 <br/>
 
@@ -88,6 +93,11 @@ Always building, always growing. Let’s connect and make something awesome!
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -109,6 +119,7 @@ Always building, always growing. Let’s connect and make something awesome!
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </p>
   
