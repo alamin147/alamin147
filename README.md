@@ -148,21 +148,22 @@ Always building, always learning, always improving. Let's connect and create som
 ## ⚙️ My Coding Environment
 
 ### System
+
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/WM-Hyprland-00D9FF?style=for-the-badge&logo=wayland&logoColor=black" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/Bar-Waybar-7C3AED?style=for-the-badge&logo=statusbar&logoColor=white" alt="Waybar" />
-  <img src="https://img.shields.io/badge/Launcher-Rofi-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" alt="Rofi" />
+  <img src="https://img.shields.io/badge/Shell-DMS-7C3AED?style=for-the-badge&logo=linux&logoColor=white" alt="Dank Material Shell" />
 </p>
 
 ### Development
+
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Config-LazyVim-68217A?style=for-the-badge&logo=vim&logoColor=white" alt="LazyVim" />
-  <img src="https://img.shields.io/badge/Terminal-Kitty-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Kitty" />
+  <img src="https://img.shields.io/badge/Terminal-Ghostty-282C34?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Ghostty" />
   <img src="https://img.shields.io/badge/Multiplexer-Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux" />
   <img src="https://img.shields.io/badge/Shell-Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
 </p>
+
 
 <!--### Theming
 <p align="center">
